@@ -1,0 +1,1 @@
+print("AlsadiqHub bot running")
